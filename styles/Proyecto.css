@@ -1,0 +1,42 @@
+header h1{
+    font-family: 'Orbitron', sans-serif;
+}
+header{
+    padding: 3%; 
+    background-color: rgb(28, 113, 192); 
+    text-align: center; 
+    margin-left: 3%; 
+    margin-right: 3%; 
+    
+}  
+
+.operacion{
+    text-align: center; 
+    padding: 12%;
+    border: 5px solid rgb(28, 113, 192); 
+   
+}  
+input{ 
+    border:solid rgb(2, 70, 134);
+    background-color: rgb(28, 113, 192);
+}  
+
+.imagen { 
+    margin-top: 5%;
+   
+    padding: 2%; 
+    text-align: center; 
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}  
+.imagen img{
+    margin-left: 14%;
+}
+
+header div{
+    margin-top: 1%;
+    margin-left: 90%;
+    
+}

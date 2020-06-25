@@ -1,0 +1,36 @@
+
+p{
+    color: rgb(107, 192, 28);
+}
+header{
+    padding: 3%; 
+    background-color: rgb(28, 113, 192); 
+    text-align: center; 
+    margin-left: 3%; 
+    margin-right: 3%; 
+    font-family: 'Orbitron', sans-serif; 
+    
+}  
+div{
+    text-align: center;
+}
+
+input{ 
+    margin-top: 8%;
+    margin-left: 60%; 
+    margin-right: 60%;
+    padding: 1%;
+    text-align: center; 
+    border: solid rgb(2, 70, 134); 
+} 
+
+a{
+    margin-left: 47%; 
+    margin-top: 4%;
+} 
+
+footer{
+    padding: 10%;
+    background-color: white;
+    margin-right: 100%;
+}
